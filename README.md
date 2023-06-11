@@ -35,5 +35,5 @@ Al Gamel Chat Bot is a simple AI-based chatbot written in OCaml. The chatbot can
 
 ## Acknowledgments
 
-- The Al Gamel team (Ayman, Sajed, MK, and Haytham) the developers of the chatbot.
+- The Al Gamel team (Ayman Talat, Sajed Samer, Mahmoud Khaled, and Mohamed Haytham) the developers of the chatbot.
 
